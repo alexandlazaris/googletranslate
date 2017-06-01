@@ -1,7 +1,7 @@
 # googletranslate
 First text, then voice. Then ... the world.
 
-![alt text](http://my-first-api-call.png)
+![alt text](/my-first-api-call.png)
 
 List of languages:
 ```
