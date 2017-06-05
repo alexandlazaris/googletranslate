@@ -2,6 +2,9 @@
 First text, then voice. Then ... the world.
 
 ![alt text](/my-first-api-call.png)
+![alt text](/my-second-api-call.png)
+
+Currently only runs in CLI and want to turn this into a secure web app. Easy to use. Add country flags based on language entered to jazz it up.
 
 List of languages:
 ```
